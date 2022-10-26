@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">Python developer</h3>
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286">
 
 - 🌱 I’m currently learning **React js**
 
