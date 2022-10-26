@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-[(https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)]
+[![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">Python developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/progeammer.gif">
