@@ -18,7 +18,6 @@
   
 - ⚡ Fun fact: I use tabs over spaces 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif" align="right" style="width: 20%" />
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
