@@ -2,6 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%/>
 </div>  
 <h1 align="center">Hi 👋, I'm Divya</h1>
+<h3 align="center">Python developer</h3>
+
+- 🌱 I’m currently learning **React js**
+
+- 📫 How to reach me **divyatm95@gmail.com**
+                                                                                           
+<h1 align="center">Hi 👋, I'm Divya</h1>
                   
 <div align="center">I am a full stack developer, I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.</div>  
 
