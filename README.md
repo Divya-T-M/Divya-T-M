@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">Python developer</h3>
 
-- 🌱 I’m currently learning **React js**
 
-- 📫 How to reach me **divyatm95@gmail.com**
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
 
+- ❓ Ask me about anything related to python and related technologies  
+  
+- ⚡ Fun fact: I use tabs over spaces  
 
   
 <h3 align="left">Connect with me:</h3>
