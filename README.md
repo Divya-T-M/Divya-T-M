@@ -3,15 +3,15 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <div align="center">I am a full stack developer, I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.</div>  
-
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif" align="right" style="width: 20%" />
+  
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 - ❓ Ask me about anything related to python and related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces  
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif" align="right" style="width: 20%" />
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divya" height="30" width="40" /></a>
