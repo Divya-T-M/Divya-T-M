@@ -21,7 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya-t-m&show_icons=true&locale=en&layout=compact" alt="divya-t-m" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=divya-t-m&show_icons=true&locale=en" alt="divya-t-m" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-t-m&" alt="divya-t-m" /></p>
 
