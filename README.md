@@ -16,6 +16,17 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
 
+<br/>  
+
+```javascript
+import { divyatm } from "Awesome";
+
+const languages = ["C", "PHP", "Java","Python","Html","Css"];
+const databases = ["MySql","PostgreSql","Oracle"];
+
+Divyatm.skills.push(...languages, ...databases);
+```
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
