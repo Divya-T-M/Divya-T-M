@@ -16,6 +16,9 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Divya-T-M&&style=flat-square" align="center" />
+</div>  
 <br/>  
 
 ```javascript
