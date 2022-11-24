@@ -24,7 +24,7 @@
 ```javascript
 import { divyatm } from "Awesome";
 
-const languages = ["C", "PHP", "Java","Python","Html","Css",Angular];
+const languages = ["C", "PHP", "Java","Python","Html","Css","Angular"];
 const databases = ["MySql","PostgreSql","Oracle"];
 
 Divyatm.skills.push(...languages, ...databases);
