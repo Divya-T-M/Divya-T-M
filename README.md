@@ -10,7 +10,7 @@
 <h3 align="center">I am a full stack developer, I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.</h3>
 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Angular and Nodejs  
 
 - ❓ Ask me about anything related to python and related technologies  
   
@@ -24,7 +24,7 @@
 ```javascript
 import { divyatm } from "Awesome";
 
-const languages = ["C", "PHP", "Java","Python","Html","Css"];
+const languages = ["C", "PHP", "Java","Python","Html","Css",Angular];
 const databases = ["MySql","PostgreSql","Oracle"];
 
 Divyatm.skills.push(...languages, ...databases);
