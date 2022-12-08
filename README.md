@@ -10,7 +10,7 @@
 <h3 align="center">I am a full stack developer, I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.</h3>
 
 
-- 🌱 I’m currently learning Angular and Nodejs  
+- 🌱 I’m currently learning Angular
 
 - ❓ Ask me about anything related to python and related technologies  
   
